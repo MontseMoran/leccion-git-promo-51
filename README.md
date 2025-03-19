@@ -18,3 +18,6 @@ Repositorio para explicar la clase de Git
 
 ### Configuración
 
+Ahora guardo mis cambios 
+g
+
